@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #093B4C;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+    font-size: 100px;
+}
+.container {
+    width: 50vw;
+    min-height: 50vw;
+    margin: 100px auto;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+.box {
+    padding: 50px;
+    width: 200px;
+    height: 200px;
+}
+
+.blue {
+    background-color: #1489B2;
+}
+.green {
+    background-color: #08D6A1;
+}
+.yellow {
+    background-color: #FFD166;
+}
+.red {
+    background-color: #F0466F;
+}
