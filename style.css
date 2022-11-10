@@ -21,7 +21,10 @@ h1 {
     gap: 50px;
 }
 .box {
-    padding: 50px;
+    line-height: 200px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
     width: 200px;
     height: 200px;
 }
